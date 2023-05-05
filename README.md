@@ -1,4 +1,4 @@
-# universityTimetabling - Phase 1 Deliverables
+# University Timetabling - Phase 1 Deliverables
 |      ID        |              Name             |
 |----------------|-------------------------------|
 |   20206086     |        Hana Ayman Ahmed       |
